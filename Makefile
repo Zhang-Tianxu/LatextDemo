@@ -24,4 +24,4 @@ ${AUX}: ${TEX}
 	${LATEX} ${TEX}
 
 clean:
-	@rm -f ${LOG} ${AUX} ${BBL} ${BLG}
+	@rm -f ${LOG} ${AUX} ${BBL} ${BLG} ${PDF}
