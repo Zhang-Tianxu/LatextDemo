@@ -1,0 +1,6 @@
+PWD /Users/zhangaotian/temp/github/Secure-Processor
+INPUT /usr/local/texlive/2020/texmf.cnf
+INPUT /usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2020/texmf-var/web2c/pdftex/latex.fmt
+INPUT IncludePackages.tex
+OUTPUT IncludePackages.log
